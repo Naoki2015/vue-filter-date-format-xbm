@@ -10,7 +10,7 @@
   "author": "xbm",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/Naoki2015/vue-filter-date-format-xbm"
   },
   "files": [
     "dist/vue-filter-date-format.cjs.js",
